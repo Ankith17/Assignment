@@ -1,0 +1,13 @@
+C:\Users\akki\Desktop\ADM handson\Area\Area\bin\Debug\netcoreapp3.1\Area.exe
+C:\Users\akki\Desktop\ADM handson\Area\Area\bin\Debug\netcoreapp3.1\Area.deps.json
+C:\Users\akki\Desktop\ADM handson\Area\Area\bin\Debug\netcoreapp3.1\Area.runtimeconfig.json
+C:\Users\akki\Desktop\ADM handson\Area\Area\bin\Debug\netcoreapp3.1\Area.runtimeconfig.dev.json
+C:\Users\akki\Desktop\ADM handson\Area\Area\bin\Debug\netcoreapp3.1\Area.dll
+C:\Users\akki\Desktop\ADM handson\Area\Area\bin\Debug\netcoreapp3.1\Area.pdb
+C:\Users\akki\Desktop\ADM handson\Area\Area\obj\Debug\netcoreapp3.1\Area.csprojAssemblyReference.cache
+C:\Users\akki\Desktop\ADM handson\Area\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfoInputs.cache
+C:\Users\akki\Desktop\ADM handson\Area\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfo.cs
+C:\Users\akki\Desktop\ADM handson\Area\Area\obj\Debug\netcoreapp3.1\Area.csproj.CoreCompileInputs.cache
+C:\Users\akki\Desktop\ADM handson\Area\Area\obj\Debug\netcoreapp3.1\Area.dll
+C:\Users\akki\Desktop\ADM handson\Area\Area\obj\Debug\netcoreapp3.1\Area.pdb
+C:\Users\akki\Desktop\ADM handson\Area\Area\obj\Debug\netcoreapp3.1\Area.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\akki\Desktop\ADM handson\Marks\Marks\bin\Debug\netcoreapp3.1\Marks.exe
+C:\Users\akki\Desktop\ADM handson\Marks\Marks\bin\Debug\netcoreapp3.1\Marks.deps.json
+C:\Users\akki\Desktop\ADM handson\Marks\Marks\bin\Debug\netcoreapp3.1\Marks.runtimeconfig.json
+C:\Users\akki\Desktop\ADM handson\Marks\Marks\bin\Debug\netcoreapp3.1\Marks.runtimeconfig.dev.json
+C:\Users\akki\Desktop\ADM handson\Marks\Marks\bin\Debug\netcoreapp3.1\Marks.dll
+C:\Users\akki\Desktop\ADM handson\Marks\Marks\bin\Debug\netcoreapp3.1\Marks.pdb
+C:\Users\akki\Desktop\ADM handson\Marks\Marks\obj\Debug\netcoreapp3.1\Marks.csprojAssemblyReference.cache
+C:\Users\akki\Desktop\ADM handson\Marks\Marks\obj\Debug\netcoreapp3.1\Marks.AssemblyInfoInputs.cache
+C:\Users\akki\Desktop\ADM handson\Marks\Marks\obj\Debug\netcoreapp3.1\Marks.AssemblyInfo.cs
+C:\Users\akki\Desktop\ADM handson\Marks\Marks\obj\Debug\netcoreapp3.1\Marks.csproj.CoreCompileInputs.cache
+C:\Users\akki\Desktop\ADM handson\Marks\Marks\obj\Debug\netcoreapp3.1\Marks.dll
+C:\Users\akki\Desktop\ADM handson\Marks\Marks\obj\Debug\netcoreapp3.1\Marks.pdb
+C:\Users\akki\Desktop\ADM handson\Marks\Marks\obj\Debug\netcoreapp3.1\Marks.genruntimeconfig.cache

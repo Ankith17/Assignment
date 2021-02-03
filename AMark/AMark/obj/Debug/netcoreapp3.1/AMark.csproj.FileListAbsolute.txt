@@ -1,0 +1,12 @@
+C:\Users\akki\Desktop\ADM handson\AMark\AMark\bin\Debug\netcoreapp3.1\AMark.exe
+C:\Users\akki\Desktop\ADM handson\AMark\AMark\bin\Debug\netcoreapp3.1\AMark.deps.json
+C:\Users\akki\Desktop\ADM handson\AMark\AMark\bin\Debug\netcoreapp3.1\AMark.runtimeconfig.json
+C:\Users\akki\Desktop\ADM handson\AMark\AMark\bin\Debug\netcoreapp3.1\AMark.runtimeconfig.dev.json
+C:\Users\akki\Desktop\ADM handson\AMark\AMark\bin\Debug\netcoreapp3.1\AMark.dll
+C:\Users\akki\Desktop\ADM handson\AMark\AMark\bin\Debug\netcoreapp3.1\AMark.pdb
+C:\Users\akki\Desktop\ADM handson\AMark\AMark\obj\Debug\netcoreapp3.1\AMark.AssemblyInfoInputs.cache
+C:\Users\akki\Desktop\ADM handson\AMark\AMark\obj\Debug\netcoreapp3.1\AMark.AssemblyInfo.cs
+C:\Users\akki\Desktop\ADM handson\AMark\AMark\obj\Debug\netcoreapp3.1\AMark.csproj.CoreCompileInputs.cache
+C:\Users\akki\Desktop\ADM handson\AMark\AMark\obj\Debug\netcoreapp3.1\AMark.dll
+C:\Users\akki\Desktop\ADM handson\AMark\AMark\obj\Debug\netcoreapp3.1\AMark.pdb
+C:\Users\akki\Desktop\ADM handson\AMark\AMark\obj\Debug\netcoreapp3.1\AMark.genruntimeconfig.cache

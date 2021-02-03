@@ -1,0 +1,13 @@
+C:\Users\akki\Desktop\ADM handson\PerABstract\PerABstract\obj\Debug\netcoreapp3.1\PerABstract.csprojAssemblyReference.cache
+C:\Users\akki\Desktop\ADM handson\PerABstract\PerABstract\obj\Debug\netcoreapp3.1\PerABstract.AssemblyInfoInputs.cache
+C:\Users\akki\Desktop\ADM handson\PerABstract\PerABstract\obj\Debug\netcoreapp3.1\PerABstract.AssemblyInfo.cs
+C:\Users\akki\Desktop\ADM handson\PerABstract\PerABstract\obj\Debug\netcoreapp3.1\PerABstract.csproj.CoreCompileInputs.cache
+C:\Users\akki\Desktop\ADM handson\PerABstract\PerABstract\bin\Debug\netcoreapp3.1\PerABstract.exe
+C:\Users\akki\Desktop\ADM handson\PerABstract\PerABstract\bin\Debug\netcoreapp3.1\PerABstract.deps.json
+C:\Users\akki\Desktop\ADM handson\PerABstract\PerABstract\bin\Debug\netcoreapp3.1\PerABstract.runtimeconfig.json
+C:\Users\akki\Desktop\ADM handson\PerABstract\PerABstract\bin\Debug\netcoreapp3.1\PerABstract.runtimeconfig.dev.json
+C:\Users\akki\Desktop\ADM handson\PerABstract\PerABstract\bin\Debug\netcoreapp3.1\PerABstract.dll
+C:\Users\akki\Desktop\ADM handson\PerABstract\PerABstract\bin\Debug\netcoreapp3.1\PerABstract.pdb
+C:\Users\akki\Desktop\ADM handson\PerABstract\PerABstract\obj\Debug\netcoreapp3.1\PerABstract.dll
+C:\Users\akki\Desktop\ADM handson\PerABstract\PerABstract\obj\Debug\netcoreapp3.1\PerABstract.pdb
+C:\Users\akki\Desktop\ADM handson\PerABstract\PerABstract\obj\Debug\netcoreapp3.1\PerABstract.genruntimeconfig.cache

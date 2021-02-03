@@ -1,0 +1,13 @@
+C:\Users\akki\Desktop\ADM handson\AbstractConst\AbstractConst\obj\Debug\netcoreapp3.1\AbstractConst.AssemblyInfoInputs.cache
+C:\Users\akki\Desktop\ADM handson\AbstractConst\AbstractConst\obj\Debug\netcoreapp3.1\AbstractConst.AssemblyInfo.cs
+C:\Users\akki\Desktop\ADM handson\AbstractConst\AbstractConst\obj\Debug\netcoreapp3.1\AbstractConst.csproj.CoreCompileInputs.cache
+C:\Users\akki\Desktop\ADM handson\AbstractConst\AbstractConst\bin\Debug\netcoreapp3.1\AbstractConst.exe
+C:\Users\akki\Desktop\ADM handson\AbstractConst\AbstractConst\bin\Debug\netcoreapp3.1\AbstractConst.deps.json
+C:\Users\akki\Desktop\ADM handson\AbstractConst\AbstractConst\bin\Debug\netcoreapp3.1\AbstractConst.runtimeconfig.json
+C:\Users\akki\Desktop\ADM handson\AbstractConst\AbstractConst\bin\Debug\netcoreapp3.1\AbstractConst.runtimeconfig.dev.json
+C:\Users\akki\Desktop\ADM handson\AbstractConst\AbstractConst\bin\Debug\netcoreapp3.1\AbstractConst.dll
+C:\Users\akki\Desktop\ADM handson\AbstractConst\AbstractConst\bin\Debug\netcoreapp3.1\AbstractConst.pdb
+C:\Users\akki\Desktop\ADM handson\AbstractConst\AbstractConst\obj\Debug\netcoreapp3.1\AbstractConst.csprojAssemblyReference.cache
+C:\Users\akki\Desktop\ADM handson\AbstractConst\AbstractConst\obj\Debug\netcoreapp3.1\AbstractConst.dll
+C:\Users\akki\Desktop\ADM handson\AbstractConst\AbstractConst\obj\Debug\netcoreapp3.1\AbstractConst.pdb
+C:\Users\akki\Desktop\ADM handson\AbstractConst\AbstractConst\obj\Debug\netcoreapp3.1\AbstractConst.genruntimeconfig.cache

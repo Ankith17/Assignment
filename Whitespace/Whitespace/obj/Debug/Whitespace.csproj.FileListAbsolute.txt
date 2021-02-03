@@ -1,0 +1,7 @@
+C:\Users\akki\Desktop\ADM handson\Whitespace\Whitespace\bin\Debug\Whitespace.exe.config
+C:\Users\akki\Desktop\ADM handson\Whitespace\Whitespace\bin\Debug\Whitespace.exe
+C:\Users\akki\Desktop\ADM handson\Whitespace\Whitespace\bin\Debug\Whitespace.pdb
+C:\Users\akki\Desktop\ADM handson\Whitespace\Whitespace\obj\Debug\Whitespace.csprojAssemblyReference.cache
+C:\Users\akki\Desktop\ADM handson\Whitespace\Whitespace\obj\Debug\Whitespace.csproj.CoreCompileInputs.cache
+C:\Users\akki\Desktop\ADM handson\Whitespace\Whitespace\obj\Debug\Whitespace.exe
+C:\Users\akki\Desktop\ADM handson\Whitespace\Whitespace\obj\Debug\Whitespace.pdb

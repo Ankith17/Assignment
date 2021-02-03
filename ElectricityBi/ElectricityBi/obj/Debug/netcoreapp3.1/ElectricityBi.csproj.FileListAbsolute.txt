@@ -1,0 +1,13 @@
+C:\Users\akki\Desktop\ADM handson\ElectricityBi\ElectricityBi\bin\Debug\netcoreapp3.1\ElectricityBi.exe
+C:\Users\akki\Desktop\ADM handson\ElectricityBi\ElectricityBi\bin\Debug\netcoreapp3.1\ElectricityBi.deps.json
+C:\Users\akki\Desktop\ADM handson\ElectricityBi\ElectricityBi\bin\Debug\netcoreapp3.1\ElectricityBi.runtimeconfig.json
+C:\Users\akki\Desktop\ADM handson\ElectricityBi\ElectricityBi\bin\Debug\netcoreapp3.1\ElectricityBi.runtimeconfig.dev.json
+C:\Users\akki\Desktop\ADM handson\ElectricityBi\ElectricityBi\bin\Debug\netcoreapp3.1\ElectricityBi.dll
+C:\Users\akki\Desktop\ADM handson\ElectricityBi\ElectricityBi\bin\Debug\netcoreapp3.1\ElectricityBi.pdb
+C:\Users\akki\Desktop\ADM handson\ElectricityBi\ElectricityBi\obj\Debug\netcoreapp3.1\ElectricityBi.csprojAssemblyReference.cache
+C:\Users\akki\Desktop\ADM handson\ElectricityBi\ElectricityBi\obj\Debug\netcoreapp3.1\ElectricityBi.AssemblyInfoInputs.cache
+C:\Users\akki\Desktop\ADM handson\ElectricityBi\ElectricityBi\obj\Debug\netcoreapp3.1\ElectricityBi.AssemblyInfo.cs
+C:\Users\akki\Desktop\ADM handson\ElectricityBi\ElectricityBi\obj\Debug\netcoreapp3.1\ElectricityBi.csproj.CoreCompileInputs.cache
+C:\Users\akki\Desktop\ADM handson\ElectricityBi\ElectricityBi\obj\Debug\netcoreapp3.1\ElectricityBi.dll
+C:\Users\akki\Desktop\ADM handson\ElectricityBi\ElectricityBi\obj\Debug\netcoreapp3.1\ElectricityBi.pdb
+C:\Users\akki\Desktop\ADM handson\ElectricityBi\ElectricityBi\obj\Debug\netcoreapp3.1\ElectricityBi.genruntimeconfig.cache
