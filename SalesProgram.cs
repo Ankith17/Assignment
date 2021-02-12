@@ -25,10 +25,10 @@ namespace Sales
             {
                 DBHandler dBHandler = new DBHandler();
                 SqlCon = dBHandler.GetConnection();
-                SqlCommand sqlCommand = new SqlCommand("Insert into SalesDetails values(@Sales_id, @Customer_name, @Noof_units, @Net_amount)", SqlCon);
+                SqlCommand sqlCommand = new SqlCommand("Insert into SalesDetails values(@Sales_id, @Customer_name, @No_units, @Net_amount)", SqlCon);
                 sqlCommand.Parameters.AddWithValue("@Sales_id", sd.SalesId);
                 sqlCommand.Parameters.AddWithValue("@Customer_name", sd.CustomerName);
-                sqlCommand.Parameters.AddWithValue("@Noof_units", sd.NoOfUnits);
+                sqlCommand.Parameters.AddWithValue("@No_units", sd.NoOfUnits);
                 sqlCommand.Parameters.AddWithValue("@Net_amount", sd.NetAmount);
 
                 SqlCon.Open();
